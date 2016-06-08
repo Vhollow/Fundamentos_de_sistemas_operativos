@@ -2,4 +2,4 @@
 
 Practica de la asignatura Fundamentos de Sistemas Operativos del curso 2014/15
 
-Realizada por @github/albertogilval
+Realizada por (albertogilval){github.om/albertogilval} y yo
